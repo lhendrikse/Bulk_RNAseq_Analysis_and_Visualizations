@@ -6,7 +6,7 @@
 
 # Notes -------------------------------------------------------------------
 # Code to generate visualizations and differential gene expression results 
-# from Hendrikse et al, Nature, 2022
+# from Hendrikse et al, Nature, 2022 https://doi.org/10.1038/s41586-022-05215-w
 
 
 # Libraries ---------------------------------------------------------------
